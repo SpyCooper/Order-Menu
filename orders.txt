@@ -1,0 +1,15 @@
+ToySoldier 8
+ToySoldier 10
+Drumstick 2B
+Drumstick 5B
+Drumstick 7A
+Skateboard 7.5 48
+Skateboard 8 52
+Skateboard 8.5 56
+Skateboard 8 60
+Pencil 0.9
+Pencil 0.7
+Pencil 0.5
+Pencil 0.3
+Watch black 1.1
+Watch silver 1.3
